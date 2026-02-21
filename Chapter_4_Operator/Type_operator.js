@@ -1,0 +1,11 @@
+console.log(typeof 10); //number
+console.log(typeof "Hello");    //string
+console.log(typeof true);   //boolean             
+console.log(typeof undefined);  //undefined
+console.log(typeof null);  //object
+console.log(typeof Symbol("id"));  //symbol
+console.log(typeof 10n);  //bigint          
+console.log(typeof {});  //object
+console.log(typeof []); //object    
+console.log(typeof 2.3); //number
+console.log(typeof NaN); //number   
